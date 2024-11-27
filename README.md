@@ -1,6 +1,5 @@
 
 # @Rentals
-
 **MERN website** serving as a platform for **Book Renting** with least costs involved as one needs to pay just shipping &amp; minimal day wise rental charges.
 
 ## Technologies Used:
